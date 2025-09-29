@@ -15,7 +15,14 @@
 
 ---
 
-### 📌 Projects
+### 🌱 Currently Learning
+- Advanced JavaScript & full-stack workflows
+- Data structures & algorithms (LeetCode practice)
+- How to build scalable, production-ready apps
+
+---
+
+### 📌 Recent Projects
 - **[ScrollEats](https://github.com/juswamacbook/SPURHACKS-2025-SCROLLEATS)** – Food discovery web app using React + Google Places API  
 - **Queen’s Table Tennis Club Website** – Club website built with React + TailwindCSS  
 - **Mini Assignments** – [Odin practice repo](https://github.com/YOURUSERNAME/odin-practice) documenting my progress  
