@@ -29,7 +29,7 @@
 
 ### 📌 Recent Projects
 - **[ScrollEats](https://github.com/danielyu128/SCROLLEATS)** – Food discovery web app using React + Google Places API  
-- **Queen’s Table Tennis Club Website** – Club website built with React + TailwindCSS  
+- **[Queen’s Table Tennis Club Website](https://qutabletennis.qweb.dev/)** – Club website built with React + TailwindCSS  
 - **Mini Odin Assignments** – Odin repos documenting my progress --> **[Landing Page](https://github.com/danielyu128/Landing-Page)** **[Recipes Page](https://github.com/danielyu128?tab=repositories)**
 - **Student Marketplace** (In Progress): Collaborating with three friends to build a hyper-local marketplace website for Queen’s University students to buy/sell textbooks, find sublets, tutoring, and part-time gigs.
 ---
