@@ -35,5 +35,6 @@
 ---
 
 ### 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/daniel-yu-88b520343/)  
+- [LinkedIn](https://www.linkedin.com/in/daniel-yu-88b520343/)
+- Email: [danielyu128@gmail.com](mailto:danielyu128@gmail.com)
 - [Portfolio Website] (coming soon 🚧)  
