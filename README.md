@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋  
 
-<!--
-**danielyu128/danielyu128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd year Computing student at Queen’s University, specializing in Software Design  
+💻 Currently learning full-stack development through [The Odin Project](https://www.theodinproject.com/)  
+🚀 Passionate about building projects that solve real-world problems  
+📚 Interests: AI/ML, web development, finance tech  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 Tech Stack
+- **Languages**: Python, Java, JavaScript (ES6+), C++  
+- **Web**: React, TailwindCSS, Node.js  
+- **Tools**: Git, GitHub, VS Code  
+- **Currently Learning**: Full-stack dev (Odin), SQL  
+
+---
+
+### 📌 Projects
+- **[ScrollEats](https://github.com/juswamacbook/SPURHACKS-2025-SCROLLEATS)** – Food discovery web app using React + Google Places API  
+- **Queen’s Table Tennis Club Website** – Club website built with React + TailwindCSS  
+- **Mini Assignments** – [Odin practice repo](https://github.com/YOURUSERNAME/odin-practice) documenting my progress  
+
+---
+
+### 🌐 Connect with me
+- [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
+- [Portfolio Website](https://YOUR-WEBSITE.com) (coming soon 🚧)  
