@@ -23,5 +23,5 @@
 ---
 
 ### 🌐 Connect with me
-- [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
+- [LinkedIn](https://www.linkedin.com/in/daniel-yu-88b520343/)  
 - [Portfolio Website](https://YOUR-WEBSITE.com) (coming soon 🚧)  
