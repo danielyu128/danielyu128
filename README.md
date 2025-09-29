@@ -22,6 +22,12 @@
 
 ---
 
+### 🏆 Achievements
+- Winner of the **Best Overall National Bank Of Canada Challenge Project (QHacks 2025)**
+- **Dean’s Honour List** at Queen’s University
+
+---
+
 ### 📌 Recent Projects
 - **[ScrollEats](https://github.com/juswamacbook/SPURHACKS-2025-SCROLLEATS)** – Food discovery web app using React + Google Places API  
 - **Queen’s Table Tennis Club Website** – Club website built with React + TailwindCSS  
