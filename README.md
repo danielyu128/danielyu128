@@ -22,7 +22,7 @@
 ---
 
 ### 🏆 Achievements
-- Winner of the **Best Overall National Bank Of Canada Challenge Project (QHacks 2025)**
+- Winner of the **Best Overall National Bank Of Canada Challenge Project (QHacks 2025)** [Link to Devpost](https://devpost.com/software/the-evolution-of-trade)
 - **Dean’s Honour List** at Queen’s University
 
 ---
