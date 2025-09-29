@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋  
 
-🎓 2nd year Computer Science student at Queen’s University, specializing in Software Design  
+🎓 Computer Science student at Queen’s University, specializing in Software Design  
 💻 Currently learning full-stack development through [The Odin Project](https://www.theodinproject.com/)  
 🚀 Passionate about building projects that solve real-world problems  
 📚 Interests: AI/ML, web development, finance tech  
