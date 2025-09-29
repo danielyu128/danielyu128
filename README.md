@@ -11,7 +11,6 @@
 - **Languages**: Python, Java, JavaScript (ES6+), C++  
 - **Web**: React, TailwindCSS, Node.js  
 - **Tools**: Git, GitHub, VS Code  
-- **Currently Learning**: Full-stack dev (Odin), SQL  
 
 ---
 
