@@ -27,7 +27,7 @@
 
 ---
 
-## 🏄 Hobbies & Interests
+### 🏄 Hobbies & Interests
 Outside of coding, I’m all about:  
 - 🏃‍♂️ Running & fitness (dreaming of an IRONMAN in 5 years!)  
 - 🍳 Cooking up new recipes  
