@@ -4,8 +4,13 @@
 💻 Currently learning full-stack development through [The Odin Project](https://www.theodinproject.com/)  
 🚀 Passionate about building projects that solve real-world problems  
 📚 Interests: AI/ML, web development, finance tech  
-🏄 Hobbies ---> When I'm not coding, I love: Running and fitness, cooking new recipes, trying new restaurants with my friends on what we call "food days", and spending quality time with family and friends. Speaking of running, my goal is to hopefully run an IRONMAN in the next 5 years
-
+🏄 Hobbies & Interests
+Outside of coding, I’m all about:  
+- 🏃‍♂️ Running & fitness (dreaming of an IRONMAN in 5 years!)  
+- 🍳 Cooking up new recipes  
+- 🍽️ “Food days” with friends, exploring new restaurants  
+- 👨‍👩‍👧‍👦 Quality time with family & friends
+  
 ---
 
 ### 🔨 Tech Stack
