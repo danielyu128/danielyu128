@@ -4,12 +4,6 @@
 💻 Currently learning full-stack development through [The Odin Project](https://www.theodinproject.com/)  
 🚀 Passionate about building projects that solve real-world problems  
 📚 Interests: AI/ML, web development, finance tech  
-🏄 Hobbies & Interests
-Outside of coding, I’m all about:  
-- 🏃‍♂️ Running & fitness (dreaming of an IRONMAN in 5 years!)  
-- 🍳 Cooking up new recipes  
-- 🍽️ “Food days” with friends, exploring new restaurants  
-- 👨‍👩‍👧‍👦 Quality time with family & friends
   
 ---
 
@@ -30,6 +24,15 @@ Outside of coding, I’m all about:
 ### 🏆 Achievements
 - Winner of the **Best Overall National Bank Of Canada Challenge Project (QHacks 2025)** [Link to Devpost](https://devpost.com/software/the-evolution-of-trade)
 - **Dean’s Honour List** at Queen’s University
+
+---
+
+## 🏄 Hobbies & Interests
+Outside of coding, I’m all about:  
+- 🏃‍♂️ Running & fitness (dreaming of an IRONMAN in 5 years!)  
+- 🍳 Cooking up new recipes  
+- 🍽️ “Food days” with friends, exploring new restaurants  
+- 👨‍👩‍👧‍👦 Quality time with family & friends  
 
 ---
 
