@@ -3,7 +3,7 @@
 🎓 Computer Science student at Queen’s University, specializing in Software Design  
 💻 Currently learning full-stack development through [The Odin Project](https://www.theodinproject.com/)  
 🚀 Passionate about building projects that solve real-world problems  
-📚 Interests: AI/ML, web development, finance tech  
+📚 Interests: AI/ML, web development, finance tech, and hackathons!  
 
 ---
 
