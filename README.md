@@ -45,7 +45,7 @@ Outside of coding, I’m all about:
 
 ## 📌 Recent Projects
 - **[ScrollEats](https://github.com/danielyu128/SCROLLEATS)** – Food discovery web app using React + Google Places API
-- **[Clearly](https://github.com/danielyu128/Clearly)** - A AI powerered accessibility-focused web extension designed to simplify and enhance online readability
+- **[Clearly](https://github.com/danielyu128/Clearly)** - An AI powerered accessibility-focused web extension designed to simplify and enhance online readability
 - **[Queen’s Table Tennis Club Website](https://qutabletennis.qweb.dev/)** – Club website built with React + TailwindCSS  
 - **Mini Odin Assignments** – Repos documenting my Odin Project progress
 - **Student Marketplace** *(In Progress)* – Hyper-local marketplace for Queen’s University students (buy/sell textbooks, find sublets, tutoring, and part-time gigs)  
