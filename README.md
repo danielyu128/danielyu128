@@ -36,7 +36,7 @@
 
 ## 🏄 Hobbies & Interests
 Outside of coding, I’m all about:  
-- 🏃‍♂️ Running & fitness (dreaming of an IRONMAN in 5 years!)  
+- 🏃‍♂️ Running, fitness, & hiking (dreaming of an IRONMAN in 5 years!)  
 - 🍳 Cooking up new recipes  
 - 🍽️ “Food days” with friends, exploring new restaurants  
 - 👨‍👩‍👧‍👦 Quality time with family & friends
