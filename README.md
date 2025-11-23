@@ -28,7 +28,7 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 Winner – **Best Overall National Bank of Canada Challenge Project (QHacks 2025)** → [Devpost](https://devpost.com/software/the-evolution-of-trade)  
+- 🥇 Winner – **2x HACKATHON WINNER** → [Devpost](https://devpost.com/software/the-evolution-of-trade)  
 - 📜 **Dean’s Honour List**, Queen’s University
 - 🤝 Selected to join Queen’s AutoDrive Perception Team, part of GM & SAE’s AutoDrive Challenge II
 
