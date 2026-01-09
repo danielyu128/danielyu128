@@ -36,7 +36,6 @@
 ## 🏆 Achievements
 - 🥇 Winner – **2x HACKATHON WINNER** → [Devpost Profile](https://devpost.com/danielyu128?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)  
 - 📜 **Dean’s Honour List**, Queen’s University
-- 🤝 Selected to join Queen’s AutoDrive Perception Team, part of GM & SAE’s AutoDrive Challenge II
 
 ---
 
