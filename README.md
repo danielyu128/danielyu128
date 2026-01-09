@@ -2,7 +2,7 @@
 
 🎓 Computer Science student at Queen’s University, specializing in Software Design  
 
-🧠 Currently **interning at InfoMax Technologies Corporation** as a Software Engineer Intern (AI/ML), developing an AI-powered prescription interpretation system using C#, Azure AI, and OCR
+🧠 Most recently **interned at InfoMax Technologies Corporation** as a Software Engineer Intern (AI/ML),;developed an AI-powered prescription interpretation system using C#, Azure AI, and OCR
 
 🚗 **Perception Software Engineer @ Queen’s AutoDrive**, working on LiDAR semantic segmentation models for real-time object classification
 
