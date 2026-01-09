@@ -60,5 +60,5 @@ Outside of coding, I’m all about:
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/daniel-yu-88b520343/)  
+- [LinkedIn](https://www.linkedin.com/in/danielyu-cs/)  
 - [Portfolio Website](#) (coming soon 🚧)  
