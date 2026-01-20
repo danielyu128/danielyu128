@@ -52,6 +52,7 @@ Outside of coding, I’m all about:
 ## 📌 Recent Projects
 - **[ScrollEats](https://github.com/danielyu128/SCROLLEATS)** – Food discovery web app using React + Google Places API
 - **[Clearly](https://github.com/danielyu128/Clearly)** - An AI powerered accessibility-focused web extension designed to simplify and enhance online readability
+- **[blueprint] - Cursor for Interior Design. Take pictures of your room, receive an accurate 3D Layout in seconds
 - **[Queen’s Table Tennis Club Website](https://qutabletennis.qweb.dev/)** – Club website built with React + TailwindCSS  
 - **Mini Odin Assignments** – Repos documenting my Odin Project progress
 
