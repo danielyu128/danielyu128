@@ -60,4 +60,4 @@ Outside of coding, I’m all about:
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/danielyu-cs/)  
-- [Portfolio Website](#) (coming soon 🚧)  
+- [X/Twitter!](https://x.com/daniellyu_)  
