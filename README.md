@@ -58,6 +58,6 @@ Outside of coding, I’m all about:
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me!!
 - [LinkedIn](https://www.linkedin.com/in/danielyu-cs/)  
 - [X/Twitter!](https://x.com/daniellyu_)  
