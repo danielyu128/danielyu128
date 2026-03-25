@@ -4,7 +4,7 @@
 
 💼 Incoming **Software Engineering Co-op @ Ericsson**, working on Agentic AI and test management systems
 
-🧠 Most recently **interned at InfoMax Technologies Corporation** as a Software Engineer Intern (AI/ML), developed an AI-powered prescription interpretation system using C#, Azure AI, and OCR
+🧠 **Interned at InfoMax Technologies Corporation** as a Software Engineer Intern (AI/ML), developed an AI-powered prescription interpretation system using C#, Azure AI, and OCR
 
 🚀 InQbate @ Queen’s University
 - Selected venture founder in Queen’s student startup incubator  
