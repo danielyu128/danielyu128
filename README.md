@@ -1,4 +1,4 @@
-# Hi, I'm Daniel 👋  
+# YOOOOO, I'm Daniel 👋  
 
 🎓 Computer Science student at Queen’s University, specializing in Software Design  
 
