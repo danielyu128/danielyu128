@@ -1,8 +1,8 @@
 # YOOOOO, I'm Daniel 👋  
 
-🎓 Computer Science student at Queen’s University, specializing in Software Design  
+💼 **AI Engineering Intern @ Ericsson**, working on Agentic AI and test management systems
 
-💼 Incoming **Software Engineering Co-op @ Ericsson**, working on Agentic AI and test management systems
+🎓 Computer Science student at Queen’s University, specializing in Software Design  
 
 🧠 **Interned at InfoMax Technologies Corporation** as a Software Engineer Intern (AI/ML), developed an AI-powered prescription interpretation system using C#, Azure AI, and OCR
 
