@@ -8,7 +8,7 @@
 
 
 
-**In my past School Year..... I was apart of** 
+**In my past school Year..... I was apart of** 
 
 🚀 InQbate @ Queen’s University
 - Selected venture founder in Queen’s student startup incubator  
