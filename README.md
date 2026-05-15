@@ -7,14 +7,15 @@
 🧠 **Interned at InfoMax Technologies Corporation** as a Software Engineer Intern (AI/ML), developed an AI-powered prescription interpretation system using C#, Azure AI, and OCR
 
 
-**2025-2026 School Year** 
+
+**In my past School Year..... I was apart of** 
 
 🚀 InQbate @ Queen’s University
 - Selected venture founder in Queen’s student startup incubator  
-- Working in a small team to design, build, and validate a real-world product  
-- Gaining hands-on experience with product thinking, user validation, and rapid iteration
+- Worked in a small team to design, build, and validate our MVP, Meali!
+- Gained hands-on experience with product thinking, user validation, and rapid iteration
 
-🚗 **Perception Software Engineer @ Queen’s AutoDrive**, working on LiDAR semantic segmentation models for real-time object classification
+🚗 **Perception Software Engineer @ Queen’s AutoDrive**, worked on LiDAR semantic segmentation models for real-time object classification
 
 💻 Currently learning full-stack development through [The Odin Project](https://www.theodinproject.com/)  
 🚀 Passionate about building projects that solve real-world problems  
