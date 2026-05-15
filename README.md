@@ -15,7 +15,7 @@
 - Worked in a small team to design, build, and validate our MVP, Meali!
 - Gained hands-on experience with product thinking, user validation, and rapid iteration
 
-🚗 **Perception Software Engineer @ Queen’s AutoDrive**, worked on LiDAR semantic segmentation models for real-time object classification
+🚗 Perception Software Engineer @ Queen’s AutoDrive, worked on LiDAR semantic segmentation models for real-time object classification
 
 💻 Currently learning full-stack development through [The Odin Project](https://www.theodinproject.com/)  
 🚀 Passionate about building projects that solve real-world problems  
